@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794577831629",
+    "project_id": "edu-pro-assess",
+    "storage_bucket": "edu-pro-assess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794577831629:android:68624c273b11cd020a4b84",
+        "android_client_info": {
+          "package_name": "kaa.alisherbu.eduproassess.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxFdqgVDElAtI6HBUZNnG_lXHndMuKDHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794577831629:android:e582d14dab1332140a4b84",
+        "android_client_info": {
+          "package_name": "kaa.alisherbu.fcmexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxFdqgVDElAtI6HBUZNnG_lXHndMuKDHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
