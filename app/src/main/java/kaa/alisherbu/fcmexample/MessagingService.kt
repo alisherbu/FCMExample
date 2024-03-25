@@ -9,6 +9,11 @@ class MessagingService : FirebaseMessagingService() {
         private const val TAG = "MessagingService"
     }
 
+    override fun onCreate() {
+        super.onCreate()
+        Log.i(TAG, "onCreate")
+    }
+
     override fun onNewToken(token: String) {
         super.onNewToken(token)
         Log.i(TAG, "token = $token")
